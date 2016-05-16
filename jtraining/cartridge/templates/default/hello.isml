@@ -1,1 +1,9 @@
+<h1>
+	<isprint value="${pdict.Message}" />
+</h1>
+<isscript>
+		var message = "this is message New"; 
+</isscript>
+<a>message</a>
+
 This is isml template
